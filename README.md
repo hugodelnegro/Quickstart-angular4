@@ -1,34 +1,11 @@
-Curso Angular (versões 2.x 4.x e 5.x) Gratuito
-=================
 
-[![Build Status](https://travis-ci.org/loiane/curso-angular2.svg?branch=master)](https://travis-ci.org/loiane/curso-angular2)
-[![Greenkeeper badge](https://badges.greenkeeper.io/loiane/curso-angular2.svg.svg)](https://greenkeeper.io/)
 
-Código fonte apresentado no curso de Angular gratuito do blog loiane.com - loiane.training
-
-**Código atualizado para Angular v5.0.0-beta.0**
-
-Arquivo `package.json` exposto no projeto para ser notificado das atualizações dos pacotes npm via greenkeeper.io.
-
-### Link do curso com certificado:
+### Source:
 * [http://loiane.training/curso/angular-2/](http://loiane.training/curso/angular-2/)
 
-### Playlist Youtube
-* [Clique aqui para assistir a todos os vídeos já publicados](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
-
-### Editor e plugins
-
-Particularmente recomendo o uso do Visual Studio Code como editor - que é o mesmo usado nas aulas.
-
-Para pacote de plugins, instale esse pacote de extensões VSCode que contém todos os plugins mostrados durante as aulas do curso: [https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack).
-
-### Lista das aulas
-
-Aulas publicadas/programadas
 
 #### Introdução
-* 01: Introdução + Arquitetura
-* 02: Ambiente de desenvolvimento
+
 * 03: Primeira app (Hello World)
 * 04: Introduço ao Typescript para Angular
 * 05: Módulos (ngModule)
@@ -46,16 +23,6 @@ Aulas publicadas/programadas
 * 15: Ciclo de vida (life-cycle) do Componente
 * 16: Acesso à variáveis locais do Template com ViewChild
 * Extra: Atualizações do RC 5 e ngModule
-
-#### Angular CLI: Introdução
-* 17: Angular CLI: Instalação e criação de projetos: ng new e ng serve
-* 18: Angular CLI: Criando components, services: ng generate
-* Extra: Angular CLI: atualizando para versão RC5 (webpack)
-* 19: Angular CLI: Usando pré-processadores (Sass, Less, Stylus)
-* 20: Angular CLI: ng lint, ng test, ng e2e
-* 21: Angular CLI: Estrutura do projeto
-* 22: Angular CLI: Fazendo build
-* 23: Angular CLI: instalando bibliotecas (bootstrap, materialize, lodash, jquery, etc)
 
 #### Diretivas
 * 24: Introdução e tipos de diretivas no Angular 2
